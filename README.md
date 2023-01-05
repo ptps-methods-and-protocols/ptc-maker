@@ -45,8 +45,7 @@ Take into account that the output txt.files with the potential PTCome
 information and the mutagenic primers will be created in
 the folder where the PTCMAKER program is opened. 
 
-1. Select from "exec" folder your required version from
-https://github.com/compneurobilbao/stop-codon-pulido-17
+1. Download the .exe file from https://github.com/translational-readthrough-on-ptps/ptc-maker
 2. Execute the program double clicking on the icon.
 3. Click "Open" and browse for the .txt file containing the
 nucleotide sequence to be analyzed.
