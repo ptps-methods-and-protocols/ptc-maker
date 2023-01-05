@@ -1,4 +1,3 @@
-# ptc-maker
 # PTCMAKER
 
 ## User Manual PTCMAKER
