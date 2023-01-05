@@ -67,3 +67,6 @@ default).
 PTC mutagenic primers is displayed in new .txt files as
 indicated above, created in the folder where the PTCMAKER
 program was opened.
+
+### Source code available [here](https://github.com/compneurobilbao/stop-codon-pulido-17/tree/master/source)
+
